@@ -15,6 +15,10 @@ This repository contains solutions to the assignments and slides for the CE221: 
 
 In the "Assignment" folder, you will find the solutions to the five theoretical assignments during the course.
 
+## Assignments
+
+In the "Presentation" folder, you will find any material related to our two presentations during the course.
+
 ## Slides
 
 The "Slides" folder contains the course slides used by Prof. Kasaei during the lectures.
