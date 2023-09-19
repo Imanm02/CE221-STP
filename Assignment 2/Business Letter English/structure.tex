@@ -1,0 +1,53 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Based on a Template by
+% Brian Moses
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% This template is only based on the mentioned template and it is not 
+% completely the same. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+\newcommand{\Title}[1]{\renewcommand{\Title}{#1}}
+\newcommand{\headerlineone}[1]{\renewcommand{\headerlineone}{#1}}
+\newcommand{\headerlinetwo}[1]{\renewcommand{\headerlinetwo}{#1}}
+\newcommand{\authordetails}[1]{\renewcommand{\authordetails}{#1}}
+
+
+\address{
+	\includegraphics[width=1in]{sharif1.jpg} 
+	\hspace{0.82\textwidth}
+	\vskip -0.1\textheight~\\ 
+	\Large\hspace{0.2\textwidth}\headerlineone\hfill ~\\[0.006\textheight] 
+	\hspace{0.2\textwidth}\headerlinetwo\hfill \normalsize 
+	~\\[-0.01\textheight]
+	\hspace{0.2\textwidth}\vhrulefill{1pt} \\ 
+{
+	\hspace{\fill} 
+	\parbox[t]{0.48\textwidth}{ 
+		\footnotesize 
+		{\authordetails}
+		\today
+	}
+}
+	\hspace{-0.25\textwidth}
+	\vspace{-0.1\textheight} 
+}
+
+
+
+\renewcommand{\opening}[1]{
+	{\centering\fromaddress\vspace{0.05\textheight} \\ }
+	{\raggedright \toname \\ \toaddress \par}  
+	\vspace{1cm} 
+	\noindent #1
+}
+
+
