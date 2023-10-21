@@ -1,9 +1,9 @@
 # CE221-Scientific-Technical-Presentation
-Solutions to Prof. Kasaei's CE221: Scientific and Technical Presentation (Sharif University of Technology - Spring 2024) Assignments
+Solutions to Prof. Kasaei's CE221: Scientific and Technical Presentation (Sharif University of Technology - Spring 2023) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments and slides for the CE221: Scientific and Technical Presentation course at Sharif University of Technology, Spring 2024, taught by Prof. Kasaei.
+This repository contains solutions to the assignments and slides for the CE221: Scientific and Technical Presentation course at Sharif University of Technology, Spring 2023, taught by Prof. Kasaei.
 
 ## Table of Contents
 
