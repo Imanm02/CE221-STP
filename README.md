@@ -1,4 +1,4 @@
-# CE221-Scientific-Technical-Presentation
+# CE221-STP
 Solutions to Prof. Kasaei's CE221: Scientific and Technical Presentation (Sharif University of Technology - Spring 2023) Assignments
 
 ## Overview
