@@ -9,6 +9,7 @@ This repository contains solutions to the assignments and slides for the CE221: 
 
 - [Overview](#overview)
 - [Assignments](#assignments)
+- [Presentation](#presentation)
 - [Slides](#slides)
 - [Maintainer](#maintainer)
 
@@ -16,7 +17,7 @@ This repository contains solutions to the assignments and slides for the CE221: 
 
 In the "Assignment" folder, you will find the solutions to the five theoretical assignments during the course.
 
-## Assignments
+## Presentation
 
 In the "Presentation" folder, you will find any material related to our two presentations during the course.
 
